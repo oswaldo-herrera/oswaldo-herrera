@@ -24,15 +24,13 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">- Menú Digital -</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://dreamy-speculoos-231a89.netlify.app/" target="_blank"><img src="https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+
+<a href="https://dreamy-speculoos-231a89.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Ver?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -48,11 +46,15 @@
 <br>
 <p>
 
-<a href="[https://youtu.be/hhhSMXi0R3E](https://www.triada.rocks/)" target="_blank">
-<img src="https://img.shields.io/badge/-Ver-Proyecto?style=for-the-badge&color=3fFD7f">
+<a href="https://www.triada.rocks/" target="_blank">
+<img src="https://img.shields.io/badge/-Ver?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>desarrollo de Triada, una plataforma
+web para músicos. Utilizamos tecnologías como HTML/CSS, JavaScript, React,
+MongoDB, Mongoose, Express, Node.js, JWT y bcrypt. La arquitectura del
+proyecto fue desplegada en Vercel y AWS, con un diseño responsivo adaptado a
+diferentes tamaños de dispositivos.</p>
 </div>                                                             
 </table> 
 
