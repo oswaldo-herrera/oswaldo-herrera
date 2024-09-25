@@ -30,10 +30,10 @@
 <p>
 
 <a href="https://dreamy-speculoos-231a89.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Ver?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Ver-proyecto?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>El sitio web muestra un menú digital de hamburguesas gourmet temáticas, diseñado para restaurantes o negocios. Las imágenes y los nombres de los productos están inspirados en personajes icónicos, y cada elemento del menú es interactivo, lo que permite una fácil visualización de los platos. El diseño es adaptable para otros tipos de negocios.</p>
 </div>
                                                                                       
 </td>
@@ -47,13 +47,11 @@
 <p>
 
 <a href="https://www.triada.rocks/" target="_blank">
-<img src="https://img.shields.io/badge/-Ver?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-Ver-proyecto?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>desarrollo de Triada, una plataforma
-web para músicos. Utilizamos tecnologías como HTML/CSS, JavaScript, React,
-MongoDB, Mongoose, Express, Node.js, JWT y bcrypt. La arquitectura del
-proyecto fue desplegada en Vercel y AWS, con un diseño responsivo adaptado a
+</p>Triada, una plataforma web para músicos. Utiliza tecnologías como HTML/CSS, JavaScript, React,
+MongoDB, Mongoose, Express, Node.js, JWT y bcrypt. La arquitectura del proyecto fue desplegada en Vercel y AWS, con un diseño responsivo adaptado a
 diferentes tamaños de dispositivos.</p>
 </div>                                                             
 </table> 
