@@ -4,6 +4,16 @@
 </div>
 <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
+## Sobre mi
+
+- ⭐ Diseño UI/UX ⭐ 
+- 📲 Desarrollo Full Stack
+- ⚡ Control de Versiones
+- ✏️ Metodología Ágil Scrum
+
+<br>
+
+
 <!--
 **oswaldo-herrera/oswaldo-herrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
