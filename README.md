@@ -42,14 +42,12 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto Triada Músicos</h3>
+<h3 align="center">- Proyecto Triada -</h3>
 <div align="center">                                       
 <a href="https://www.triada.rocks/" target="_blank"><img src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/-triada?style=for-the-badge&logo=github&logoColor=black">
-</a>
+
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
