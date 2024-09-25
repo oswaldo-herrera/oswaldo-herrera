@@ -6,6 +6,13 @@
 
 ## Sobre mi
 
+<h4>
+  Soy un fullstack apasionado que disfruta convertir ideas en realidades digitales, tanto en frontend como backend.
+  Siempre estoy explorando nuevas tecnologías y me emociono con cada desafío que surge. Me gusta crear experiencias web que    realmente marquen la diferencia.
+</h4>
+
+<br>
+
 - ⭐ Diseño UI/UX ⭐ 
 - 📲 Desarrollo Full Stack
 - ⚡ Control de Versiones
