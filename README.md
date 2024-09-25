@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.oswaldoherrera.com/">Oswaldo Herrera</a> 👋</h1>
 </div>
-<img src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOiWcO1-KyyhyzWhnPO1_w0kJr6QInaVjZw&s">
 
 <!--
 **oswaldo-herrera/oswaldo-herrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
