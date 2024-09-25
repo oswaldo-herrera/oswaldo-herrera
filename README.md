@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.oswaldoherrera.com/">Oswaldo Herrera</a> 👋</h1>
 </div>
-<img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+<img src="https://images.pexels.com/photos/2764993/pexels-photo-2764993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
 ## Sobre mi
 
