@@ -1,7 +1,8 @@
-## Hi there 👋
+
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.oswaldoherrera.com/">Oswaldo Herrera</a> 👋</h1>
 </div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600)">
 
 <!--
 **oswaldo-herrera/oswaldo-herrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
